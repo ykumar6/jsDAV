@@ -19,6 +19,21 @@ and is written entirely in PHP and is the most feature complete implementation
 that I've seen to date. I am watching the [SabreDAV] repository closely for changes,
 improvements and bugfixes, to see if they can be ported to jsDAV.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Features
 --------
 
